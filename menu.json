@@ -1,0 +1,38 @@
+{
+    "Breakfast": {
+        "main": {
+            "1": "Eggs"
+        },
+        "side": {
+            "2": "Toast"
+        },
+        "drink": {
+            "3": "Coffee"
+        }
+    },
+    "Lunch": {
+        "main": {
+            "1": "Sandwich"
+        },
+        "side": {
+            "2": "Chips"
+        },
+        "drink": {
+            "3": "Soda"
+        }
+    }, 
+    "Dinner": {
+        "main": {
+            "1":"Steak"
+        },
+        "side": {
+            "2": "Potatoes"
+        },
+        "drink": {
+            "3": "Wine"
+        },
+        "dessert": {
+            "4": "Cake"
+        }
+    }
+}
