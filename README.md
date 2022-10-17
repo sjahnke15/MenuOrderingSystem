@@ -36,6 +36,6 @@ To run using a text file, add the `--file {filepath}` option, where filepath is 
 
 `python ordering.py --file {filepath}`
 
-To run the tests located in test.py:
+To run the tests located in tests.py:
 
 `python tests.py`
