@@ -1,38 +1,38 @@
 {
-    "breakfast": {
-        "Main": {
-            "Eggs": 1
+    "Breakfast": {
+        "main": {
+            "1": "Eggs"
         },
-        "Side": {
-            "Toast": 2
+        "side": {
+            "2": "Toast"
         },
-        "Drink": {
-            "Coffee": 3
+        "drink": {
+            "3": "Coffee"
         }
     },
-    "lunch": {
+    "Lunch": {
         "main": {
-            "Sandwich": 1
+            "1": "Sandwich"
         },
         "side": {
-            "Chips": 2
+            "2": "Chips"
         },
         "drink": {
-            "Soda": 3
+            "3": "Soda"
         }
     }, 
-    "dinner": {
+    "Dinner": {
         "main": {
-            "Steak": 1
+            "1":"Steak"
         },
         "side": {
-            "Potatoes": 2
+            "2": "Potatoes"
         },
         "drink": {
-            "Wine": 3
+            "3": "Wine"
         },
         "dessert": {
-            "Cake": 4
+            "4": "Cake"
         }
     }
 }
