@@ -12,7 +12,9 @@ For Evive's engineering test. This application provides two ways to input orders
 **test_orders.txt**: The example text input file that can be used to input orders rather than manually typing them into standard input.
 
 **order_processor.py**: This file contains the class OrderProcessor used to process orders as they come in by outputting error strings or meal strings using the process() method. I developed this class assuming the specified menu would not be static.
+
 **ordering.py**: This file implements the main function, and parses the command line input to determine whether the user wants interactive mode or file mode.
+
 **tests.py**: This file uses the unittest framework to do some unit testing on methods within the OrderProcessor class. I made sure that the application stuck to the specified requirements, and could adapt to changes in the menu
 ## Requirements
 This application requires Python 3. All libraries used are included in the Python standard library, which doesn't require any additional package installs.
