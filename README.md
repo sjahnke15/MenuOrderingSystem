@@ -28,6 +28,8 @@ This application requires Python 3. All libraries used are included in the Pytho
  For Windows: `.\venv\Scripts\activate`
  For Linux: `source venv/bin/activate`
 ## Usage
+When using these commands, make sure that all files in this repo are in the same working directory! Otherwise you could get an error about modules not being available or the menu not being accessible.
+
 To run interactive mode, simply run the application with no command line input
 
 `python ordering.py`
